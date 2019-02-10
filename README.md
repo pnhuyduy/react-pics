@@ -6,7 +6,7 @@ React Pics using Unsplash API to get photos by query.
 ## Installation
 Clone the repository
 ```bash
-git clone https://github.com/pnhuyduy/react-search.git
+git clone https://github.com/pnhuyduy/react-pics.git
 ```
 With [NPM](https://npmjs.org/) installed, run
 ```bash
