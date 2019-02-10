@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# React Pics Search
+# React Pics
 
-React Pics Search using Unsplash API to get photos by query.
+React Pics using Unsplash API to get photos by query.
 ## Installation
 Clone the repository
 ```bash
